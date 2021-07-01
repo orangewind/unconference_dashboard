@@ -2,4 +2,8 @@
 
 A dashboard to facilitate virtual unconferences
 
-main functions:
+Manager:
+1. Workplace
+2. My Events
+3. Account
+
